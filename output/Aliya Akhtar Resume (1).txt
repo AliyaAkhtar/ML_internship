@@ -1,0 +1,37 @@
+﻿ALIYA AKHTAR 
+  
+aliyaakhtar |   +92-3341893595 |   aliya10akhtar3a@gmail.com |   AliyaAkhtar SKILLS 
+—--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+● Languages: Javascript, Python, C++ 
+● Frontend: ReactJS, Javascript, HTML, CSS, Bootstrap 
+● Databases: MySQL, MongoDB 
+● Frameworks: ReactJS, Redux 
+EDUCATION 
+—------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Bachelor Of Engineering NED University of Engineering & Technology Karachi, Pakistan 2022-Present ● Major In Software Engineering (CGPA: 3.906) 
+Intermediate BAMM PECHS GOVT. COLLEGE FOR WOMEN Karachi, Pakistan 2022 ● Major In Pre-Engineering (Percentage: 93.72%) 
+Matriculation Karachi Public School Karachi, Pakistan 2020 ● Major In Science Group (Percentage: 93.00%) 
+EXPERIENCE 
+—------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+Project Trainee Systems Limited Sep/2023 • Collaborated with a team of developers to design, develop, and maintain C++ desktop applications, ensuring the efficient and reliable performance of software. 
+• Demonstrated excellent problem-solving skills and adaptability in a fast-paced development environment. 
+Web Development Intern CODSOFT Aug/2023-Sep/2023 • Actively contributed to web development projects, gaining hands-on experience in front-end and back-end development technologies. 
+• Contributed to the successful completion of web development projects, earning recognition for dedication and teamwork. 
+PROJECTS Also view my portfolio website AliyaAkhtarPortfolio —------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+● Job Board 
+Created a dynamic job board using the MERN stack. Integrated user authentication and real-time job posting. Enabled job seekers to browse and apply for positions with ease. This project exemplified expertise in full-stack web development, including React, MongoDB, Express.js, and Node.js. 
+● Project Management Tool 
+Developed a comprehensive project management website using the MERN stack. Empowered teams to efficiently organize tasks, collaborate, and track project progress. Utilized React, MongoDB, Express.js, and Node.js, showcasing proficiency in full-stack development and enabling streamlined project management for improved productivity. 
+● Credit Card Fraud Detection 
+Created a machine learning model for detecting credit card fraud. Leveraged data analysis and various algorithms to identify suspicious transactions, enhancing security and reducing financial risks. Demonstrated expertise in machine learning, data preprocessing, and fraud prevention, contributing to robust financial security measures.
+● Movie Genre Classification 
+Developed a machine learning model to classify movies into genres based on features like plot summary, cast, and director. Utilized natural language processing (NLP) and image recognition techniques, demonstrating proficiency in ML, NLP, and computer vision to enhance movie recommendation systems and content categorization. ● Weather Forecast Web Application | ReactJS, Open Weather Map (Weather API) 
+A weather forecast web application built using ReactJS and integrated with the OpenWeatherMap API for real-time weather data retrieval and display. 
+● Todo List | ReactJS, React Hooks 
+Developed a dynamic to-do list application using React hooks for efficient state management. ● Travel Website Landing Page | HTML, CSS, JS, Bootstrap 
+A landing page for a travel website designed using HTML, CSS, JavaScript, and Bootstrap for an attractive and responsive user interface. 
+● Vector Calculation And Plotting | Python, Matplotlib Library 
+Created a Python application using Matplotlib for vector calculations and real-time plotting, showcasing skills in Python programming and data visualisation. 
+● Smart Attendance System | Python, MySQL Database, OpenCV Library 
+Developed a smart attendance system with Python and MySQL, providing benefits to educational institutions by streamlining attendance processes 
+● Movie Ticket Booking System | C++, File Handling 
+Designed Movie Ticket Booking System with C++ and storing data in files, simplifying reservations.
