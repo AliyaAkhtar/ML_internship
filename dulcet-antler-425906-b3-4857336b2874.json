@@ -1,13 +1,13 @@
 {
-  "type": "${{secrets.TYPE}}",
-  "project_id": "${{secrets.PROJECT_ID1}}",
-  "private_key_id": "${{secrets.PRIVATE_KEY_ID}}",
-  "private_key": "${{secrets.PRIVATE_KEY}}",
-  "client_email": "${{secrets.CLIENT_EMAIL}}",
-  "client_id": "${{secrets.CLIENT_ID1}}",
-  "auth_uri": "${{secrets.AUTH_URI1}}",
-  "token_uri": "${{secrets.TOKEN_URI1}}",
-  "auth_provider_x509_cert_url": "${{secrets.AUTH_PROVIDER_X509_CERT_URL1}}",
-  "client_x509_cert_url": "${{secrets.CLIENT_X509_CERT_URL}}",
-  "universe_domain": "${{secrets.UNIVERSE_DOMAIN}}"
+  "type": "service_account",
+  "project_id": "dulcet-antler-425906-b3",
+  "private_key_id": "4857336b287414a757d5c224f25e512250287b2a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCpUT7ZzxrG+h4y\n6w+lqJbLUbsqW7WLmvC/pJXoenhVFkoAgau4g5qdRNA2LP+0oGdb5NTlD/twpWP2\nXb+C2Q+5TKjFIXO9y5BzFJJ0GyPo9mV3zKsCx+WOBRU09w01CU6c9XUX1tDTHMMa\nRhIETkF7IT3xCN49w3ANaty+QCuf4KCDLgFJ9I1BgEjGge56iZ1pZNmAGc1s9nrK\n4V8D49un3S5xqYeTJHDj/w+fZ/1CLzjDtJMvRDgbxYcYtYVjeSQd/y6T6VZlqYU6\n7SYYzo1i+WqScXFcn/kOogWj5lX6cnhD6edaboK6DW9DzheW8VVamZ8zIVDz8R7C\nBQRE81ajAgMBAAECggEANN/sUrR8Vjrxh1Ekt8ToImJJora1AP3HxPEu50Sno1qs\njW/xIlPmysocg26WA+A7ptTVLxtImCruBpfMIJ6MbH9mDPmfXVvepjF8csmu8ydP\nFJRTqzClnS41Ky8jbraTWCzG/kTVPbgzrVbIdZPCmyMMZuMwE/WeXnJKsRb1CJ3p\nMl2LtfkkW4Nw8x968nM4ZA4PvIDmqpdKHqHkLULAxcWszNr2QvZAj3AD3vvXaKIB\nej91vB5e5MeQldwVjv2CR/+daxldTfbDd7slf7aHmK/W/yqEjkO5WCXmBZcmgMeR\npgcR4BCqrqFm8V98n6b3j6RSNHOvvOstVM/ZNN18YQKBgQDUp6hOtXBsnX6pM81Y\nxCTq/pCfV8T7fZAhGRALMU7vs8S8qBlniV8WCMjxXnBBJ9LjT6FqZxE+ZOB/1pz4\npSEroXmDN9Pz3vyf9+Ecv1x3KylGq54vvbXlr9UWIHfDut0fN0H5LhHcskf9lUU2\n+Qx5F9Qg5uyAi300quSpp8mZOwKBgQDL1DulYIuA34ywBvrBxLneoa+UaYSWjQh6\nMVrPsV9Vq1Cs/wcK3+kvdJvr4cGXxa9joot95T4e007vBhi1CFsbXc1s+67PSKg5\ndpl+KyN936jq2Z9MnlXhFmkXGMtbyXoMgI0c/bknBv6jdMPK8A4mAO2MMpCsrRAx\ncHKcJlkhuQKBgQCaERHOXIOkHYLboY0/p3O70U0ENLmhHvpiEF9gTIwM/CgoKn2l\nVpBOTXUP8kTP38NZLqMajKugkcNYuysktbZPfwCjQbpMsBxE5Xjxs+6Q4/NWoRXN\nLtvvGbH/AuziIKr9Z7Jjjq4gQAYKQbBQwKT5wnrMj6F/DBBdLQbXp5lWawKBgQCb\nlaflx3kU6Q7xupIj4C9kohRs+9JKPOMQqqW/zYuQ0BDnzE8q3NmY8LCn8A4e9LW5\nHvTNJ3QwgWlKCGRJo1Qv4n0QyFiaPsKyAjaN2Q3hYh0FDxKKoH27L6kOCU4JBRSV\ngHa2f3GaObubN2DQgka6eZDZqCtIs12d71B8osT8eQKBgQC2QGDmllTZnZJQ2/ml\nectrN0oYuhZJLOOELo4S0WO53rN4jIDjBObw0rv8Qp7WLM69JkzfCWPurDpb15DV\n/h3d0EDH5wN/t+ca6M2ov2rZpphWq8KRSmkZ6J//WDHS424iPgqw9U/6d4wgKOYn\nq7yVX7+FTYA/5l8BAmP1g0sF0g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapiservice@dulcet-antler-425906-b3.iam.gserviceaccount.com",
+  "client_id": "106816016895137514274",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapiservice%40dulcet-antler-425906-b3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
 }
