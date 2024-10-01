@@ -1,3 +1,6 @@
+### Project Structure
+
+```bash
 OCR/
 ├── jds/                            # Folder containing job descriptions (PDF format)
 ├── output/                         # Folder for storing OCR output (text files)
