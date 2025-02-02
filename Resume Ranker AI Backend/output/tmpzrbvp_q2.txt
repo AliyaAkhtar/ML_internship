@@ -1,0 +1,16 @@
+﻿Job Description for Software Developer. 
+Title: Software Developer 
+Reports To: Development Manager 
+Summary of position: The Software Developer will be part of the development team,  which will have the responsibility for supporting and enhancing SalesLogix, Relius,  Crystal Reports and home built custom applications using Microsoft .NET technology.  Utilizing a Software Development Life Cycle, the Software developer will work with  technical and non-technical associated in defining business and technical requirements to  develop new functions or redesign/consolidate existing processes. 
+Duties and Responsibility: 
+This position will be mainly responsible for following: 
+1. Work with team in building web services and web based applications using .NET  4.0 technologies e.g. WCF, WF, and ASP.NET.  
+2. Day to day maintenance and support of all existing applications in use at Sentinel. 3. Build new crystal reports and enhance existing ones as requested by internal  business groups. Further enhance other reporting technologies to improve  performance and scalability of user demand. 
+4. Fill in where needed on the development side to ensure daily operations at  Sentinel run smooth without any interruption. 
+5. Work with Silverlight, AJAX (similar technology) developing an centralized  business dashboard 
+Qualifications: 
+The ideal candidate for the position will have experience and expertise in  following areas: 
+1. Two to four years of experience in .Net development using C#, VB.NET, ASP.NET. Experience in building WCF services and Windows WorkFlow  based applications is a big plus. 
+2. Proficiency in SQL development mainly on Microsoft SQL database platform.  3. Working knowledge of PL/SQL and development in Oracle databases. 4. Proficiency in Silverlight, AJAX, MVC, JQuery, XML, HTML, CSS, and  JavaScript. 
+5. Complete understanding of application development life cycle. 
+6. Experience working with source control systems like VSS and TFS. 7. Ability to accurately collect requirements and estimating the efforts involved. 8. Ability to independently work on projects and finish them within time and  budget.
